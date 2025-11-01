@@ -4,4 +4,3 @@ module half_subtractor(a,b,diff,borr);
      assign diff = a ^ b;
      assign borr = ~a & b;
 endmodule
-
