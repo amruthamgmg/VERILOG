@@ -66,3 +66,4 @@ module syn_fifo(clk,res,wr_en,rd_en,wdata,rdata,full,empty,underflow,overflow);
 endmodule
 
 
+
