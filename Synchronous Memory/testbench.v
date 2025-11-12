@@ -1,4 +1,4 @@
-`include "mem.v"
+`include "memory_design.v"
 module tb;
    parameter WIDTH = 8;
    parameter DEPTH = 32;
@@ -139,3 +139,4 @@ module tb;
      end
    endtask
 endmodule
+
