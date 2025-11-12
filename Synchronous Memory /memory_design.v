@@ -36,3 +36,4 @@ module memory(clk,res,valid,ready,wdata,rdata,wr_rd,addr);
            end
         end
 endmodule
+
